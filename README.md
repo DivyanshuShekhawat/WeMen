@@ -1,7 +1,3 @@
-Sure! Here's a polished and GitHub-friendly version of your `README.md` for the **WeMen Platform**, complete with formatting, badges (optional), and a professional layout:
-
----
-
 # 💼 WeMen — *Justice Beyond Bias*
 
 *A comprehensive platform providing support for men facing false accusations, with enhanced UI/UX and improved accessibility.*
@@ -100,21 +96,10 @@ wemen-platform/
 Contributions are welcome!  
 Please feel free to fork the repo, submit a pull request, or open an issue for discussion.
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.  
-See the [LICENSE](./LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - Thanks to all contributors who helped shape the platform.
 - Special thanks to legal professionals who provided input and guidance on platform content.
-
----
 
 > **WeMen** — *Empowering truth. Delivering justice.*
 
