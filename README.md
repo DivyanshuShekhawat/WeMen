@@ -1,6 +1,6 @@
 # 💼 WeMen — *Justice Beyond Bias*
 
-*A comprehensive platform providing support for men facing false accusations, with enhanced UI/UX and improved accessibility.*
+*A comprehensive platform providing support for men facing false accusations, with enhanced UI/UX and improved accessibility.* 
 
 ---
 
