@@ -2,6 +2,30 @@
 
 *A comprehensive platform providing support for men facing false accusations, with enhanced UI/UX and improved accessibility.*
 
+## Chatbot Backend Configuration
+
+This project includes a backend server for handling the chatbot API requests securely. To set up the chatbot:
+
+1. Install dependencies:
+```bash
+cd server
+npm install
+```
+
+2. Set up your API key in the `.env` file:
+```
+OPENROUTER_API_KEY=your_api_key_here
+PORT=3000
+```
+
+3. Start the server:
+```bash
+cd server
+node server.js
+```
+
+For more detailed instructions, see [CHATBOT_README.md](CHATBOT_README.md).
+
 ---
 
 ## 🌐 Overview
