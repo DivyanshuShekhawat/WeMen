@@ -1,6 +1,6 @@
 # 💼 WeMen — *Justice Beyond Bias*
 
-*A comprehensive platform providing support for men facing false accusations, with enhanced UI/UX and improved accessibility.* 
+*A comprehensive platform providing support for men facing false accusations, by the help of various features like providing a community of people who help each other, AI-based chatbot providing basic legal advices and clearing doubts of the user, a legal advisory helping accussed person to seek for legal help from professionals and other online resources like case studies and resources to gain knowledge about thier rights in such situations all accumulated at a single space.* 
 
 ## Chatbot Backend Configuration
 
@@ -56,16 +56,6 @@ For more detailed instructions, see [CHATBOT_README.md](CHATBOT_README.md).
 
 ---
 
-## ✨ Enhancements in This Version
-
-- 🎨 Improved modern color scheme  
-- 🧭 Streamlined navigation menu  
-- 👥 More prominent "Join Community" CTA  
-- 🔒 Simplified "Submit Case" access (available from Home page)  
-- 📱 Enhanced mobile responsiveness  
-- ♿ Accessibility improvements for better usability  
-
----
 
 ## 🛠️ Technologies Used
 
@@ -128,5 +118,3 @@ Please feel free to fork the repo, submit a pull request, or open an issue for d
 > **WeMen** — *Empowering truth. Delivering justice.*
 
 ---
-
-Let me know if you'd like a version with badges (e.g. license, build status, Firebase integration) or markdown anchors for TOC!
